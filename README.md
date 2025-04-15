@@ -3,12 +3,19 @@ This project aims to help a real estate agent predict house prices in various re
 
 # Dataset
 The dataset used for this project is titled "Maisons.csv" and contains the following features:
+
 Revenu_moyen: The average income of residents in the city where the house is located.
+
 Age_moyen: The average age of houses in the city.
+
 Nb_moyen_pieces: The average number of rooms in houses in the city.
+
 Nb_moyen_chambres: The average number of bedrooms in houses in the city.
+
 Population: The population of the city.
-Prix: The actual price the house was sold for.
+
+Prix: The actual price the house was sold for
+
 Adresse: The address of the house.
 # Objective
 The goal is to apply the supervised learning technique of linear regression to predict the price of a new house based on its characteristics.
